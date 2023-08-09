@@ -36,13 +36,18 @@ module.exports = {
         ],
         sidebar: [
             {
+                title: 'JavaScript',
+                collapsable: true, // 是否折叠
+                children: [
+                    { title: "继承", path: "/handbook/JavaScript/extend" },
+                    { title: "事件循环及事件队列", path: "/handbook/JavaScript/eventloop" },
+                ]
+            },
+            {
                 title: 'ECMAScript规范及特性',
                 collapsable: true, // 是否折叠
                 children: [
-                    { title: "ECMAScript5", path: "/handbook/ECMAScript/5" },
-                    { title: "ECMAScript6", path: "/handbook/ECMAScript/6" },
-                    { title: "ECMAScript7", path: "/handbook/ECMAScript/7" },
-                    { title: "ECMAScript8", path: "/handbook/ECMAScript/8" }
+                    { title: "ECMAScript5特性", path: "/handbook/ECMAScript/5" },
                 ]
             },
             {
