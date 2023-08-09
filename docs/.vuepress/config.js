@@ -1,7 +1,7 @@
 module.exports = {
     host: 'localhost',
     port: '8080',
-    base: '/learn-record/',
+    base: '/blog/',
     theme: 'reco',
     locales: {
         '/': {
