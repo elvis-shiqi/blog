@@ -1,2 +1,1 @@
-# blog
-owner blog
+# learn-record

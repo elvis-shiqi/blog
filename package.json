@@ -1,0 +1,22 @@
+{
+  "name": "elvis",
+  "version": "1.0.0",
+  "description": "learning-record",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs --temp .temp",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "elvis",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.9",
+    "vuepress-theme-reco": "^1.6.17"
+  },
+  "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.9.9",
+    "@vuepress/plugin-last-updated": "^1.9.9",
+    "@vuepress/plugin-pwa": "^1.9.9",
+    "vuepress-plugin-code-copy": "^1.0.6"
+  }
+}
