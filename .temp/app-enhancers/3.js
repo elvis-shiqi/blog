@@ -1,1 +1,0 @@
-export { default } from "E:\\elvis\\node_modules\\.pnpm\\@vuepress-reco+vuepress-plugin-pagation@1.6.17\\node_modules\\@vuepress-reco\\vuepress-plugin-pagation\\bin\\enhanceAppFile.js"
