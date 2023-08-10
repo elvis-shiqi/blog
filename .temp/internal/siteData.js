@@ -18,12 +18,59 @@ export const siteData = {
       "lastUpdatedTimestamp": 1691548258000
     },
     {
-      "title": "ECMAScript 6",
+      "title": "ECMAScript 6（ECMAScript 2015）",
       "frontmatter": {},
       "regularPath": "/handbook/ECMAScript/6.html",
       "relativePath": "handbook/ECMAScript/6.md",
       "key": "v-47fc5f6b",
       "path": "/handbook/ECMAScript/6.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "let 和 const 关键字",
+          "slug": "let-和-const-关键字"
+        },
+        {
+          "level": 2,
+          "title": "箭头函数",
+          "slug": "箭头函数"
+        },
+        {
+          "level": 2,
+          "title": "模板字符串",
+          "slug": "模板字符串"
+        },
+        {
+          "level": 2,
+          "title": "解构赋值",
+          "slug": "解构赋值"
+        },
+        {
+          "level": 2,
+          "title": "类和继承",
+          "slug": "类和继承"
+        },
+        {
+          "level": 2,
+          "title": "Promise",
+          "slug": "promise"
+        },
+        {
+          "level": 2,
+          "title": "模块化",
+          "slug": "模块化"
+        },
+        {
+          "level": 2,
+          "title": "剩余参数和展开运算符",
+          "slug": "剩余参数和展开运算符"
+        },
+        {
+          "level": 2,
+          "title": "Map 和 Set",
+          "slug": "map-和-set"
+        }
+      ],
       "lastUpdated": "2023/8/9 10:30:58",
       "lastUpdatedTimestamp": 1691548258000
     },
@@ -37,25 +84,35 @@ export const siteData = {
       "headers": [
         {
           "level": 2,
-          "title": "一、保护对象",
-          "slug": "一、保护对象"
+          "title": "保护对象",
+          "slug": "保护对象"
         },
         {
           "level": 2,
-          "title": "二、保护对象的结构",
-          "slug": "二、保护对象的结构"
+          "title": "保护对象的结构",
+          "slug": "保护对象的结构"
         },
         {
           "level": 2,
-          "title": "三、替换this指向",
-          "slug": "三、替换this指向"
+          "title": "替换this指向",
+          "slug": "替换this指向"
         },
         {
           "level": 2,
-          "title": "四、Es5新增的数组方法",
-          "slug": "四、es5新增的数组方法"
+          "title": "Es5新增的数组方法",
+          "slug": "es5新增的数组方法"
         }
       ],
+      "lastUpdated": "2023/8/9 18:00:24",
+      "lastUpdatedTimestamp": 1691575224000
+    },
+    {
+      "title": "ECMAScript 8",
+      "frontmatter": {},
+      "regularPath": "/handbook/ECMAScript/8.html",
+      "relativePath": "handbook/ECMAScript/8.md",
+      "key": "v-7537a12b",
+      "path": "/handbook/ECMAScript/8.html",
       "lastUpdated": "2023/8/9 10:30:58",
       "lastUpdatedTimestamp": 1691548258000
     },
@@ -70,22 +127,21 @@ export const siteData = {
       "lastUpdatedTimestamp": 1691548258000
     },
     {
-      "title": "ECMAScript 8",
-      "frontmatter": {},
-      "regularPath": "/handbook/ECMAScript/8.html",
-      "relativePath": "handbook/ECMAScript/8.md",
-      "key": "v-7537a12b",
-      "path": "/handbook/ECMAScript/8.html",
-      "lastUpdated": "2023/8/9 10:30:58",
-      "lastUpdatedTimestamp": 1691548258000
-    },
-    {
       "title": "通用规则",
       "frontmatter": {},
       "regularPath": "/handbook/Electron/Base.html",
       "relativePath": "handbook/Electron/Base.md",
       "key": "v-6d93a82e",
       "path": "/handbook/Electron/Base.html",
+      "lastUpdated": "2023/8/9 10:30:58",
+      "lastUpdatedTimestamp": 1691548258000
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/handbook/Electron/Mac.html",
+      "relativePath": "handbook/Electron/Mac.md",
+      "key": "v-549460eb",
+      "path": "/handbook/Electron/Mac.html",
       "lastUpdated": "2023/8/9 10:30:58",
       "lastUpdatedTimestamp": 1691548258000
     },
@@ -109,13 +165,14 @@ export const siteData = {
       "lastUpdatedTimestamp": 1691548258000
     },
     {
+      "title": "事件队列",
       "frontmatter": {},
-      "regularPath": "/handbook/Electron/Mac.html",
-      "relativePath": "handbook/Electron/Mac.md",
-      "key": "v-549460eb",
-      "path": "/handbook/Electron/Mac.html",
-      "lastUpdated": "2023/8/9 10:30:58",
-      "lastUpdatedTimestamp": 1691548258000
+      "regularPath": "/handbook/JavaScript/eventloop.html",
+      "relativePath": "handbook/JavaScript/eventloop.md",
+      "key": "v-716a876b",
+      "path": "/handbook/JavaScript/eventloop.html",
+      "lastUpdated": "2023/8/9 17:04:05",
+      "lastUpdatedTimestamp": 1691571845000
     },
     {
       "title": "继承",
@@ -185,22 +242,22 @@ export const siteData = {
       "lastUpdatedTimestamp": 1691548258000
     },
     {
-      "title": "React 17",
-      "frontmatter": {},
-      "regularPath": "/handbook/React/17.html",
-      "relativePath": "handbook/React/17.md",
-      "key": "v-5afbefb6",
-      "path": "/handbook/React/17.html",
-      "lastUpdated": "2023/8/9 10:30:58",
-      "lastUpdatedTimestamp": 1691548258000
-    },
-    {
       "title": "基础类型",
       "frontmatter": {},
       "regularPath": "/handbook/TypeScript/BaseType.html",
       "relativePath": "handbook/TypeScript/BaseType.md",
       "key": "v-e1b0248a",
       "path": "/handbook/TypeScript/BaseType.html",
+      "lastUpdated": "2023/8/9 10:30:58",
+      "lastUpdatedTimestamp": 1691548258000
+    },
+    {
+      "title": "React 17",
+      "frontmatter": {},
+      "regularPath": "/handbook/React/17.html",
+      "relativePath": "handbook/React/17.md",
+      "key": "v-5afbefb6",
+      "path": "/handbook/React/17.html",
       "lastUpdated": "2023/8/9 10:30:58",
       "lastUpdatedTimestamp": 1691548258000
     },
@@ -213,16 +270,6 @@ export const siteData = {
       "path": "/handbook/Vue/2.html",
       "lastUpdated": "2023/8/9 10:30:58",
       "lastUpdatedTimestamp": 1691548258000
-    },
-    {
-      "title": "事件队列",
-      "frontmatter": {},
-      "regularPath": "/handbook/JavaScript/eventloop.html",
-      "relativePath": "handbook/JavaScript/eventloop.md",
-      "key": "v-716a876b",
-      "path": "/handbook/JavaScript/eventloop.html",
-      "lastUpdated": "2023/8/9 17:04:05",
-      "lastUpdatedTimestamp": 1691571845000
     },
     {
       "title": "Vue3",
@@ -301,6 +348,10 @@ export const siteData = {
           {
             "title": "ECMAScript5特性",
             "path": "/handbook/ECMAScript/5"
+          },
+          {
+            "title": "ECMAScript6特性",
+            "path": "/handbook/ECMAScript/6"
           }
         ]
       },

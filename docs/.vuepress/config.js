@@ -48,6 +48,7 @@ module.exports = {
                 collapsable: true, // 是否折叠
                 children: [
                     { title: "ECMAScript5特性", path: "/handbook/ECMAScript/5" },
+                    { title: "ECMAScript6特性", path: "/handbook/ECMAScript/6" },
                 ]
             },
             {
